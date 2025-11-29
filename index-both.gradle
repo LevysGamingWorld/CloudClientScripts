@@ -1,5 +1,4 @@
 apply from: 'https://raw.githubusercontent.com/BuiltBrokenModding/BuiltBrokenScripts/universal/scripts/both/clean.gradle'
-apply from: 'https://github.com/LevysGamingWorld/CloudClientScripts/raw/refs/heads/main/changelog.gradle'
 apply from: 'https://raw.githubusercontent.com/BuiltBrokenModding/BuiltBrokenScripts/universal/scripts/both/version.gradle'
 apply from: 'https://raw.githubusercontent.com/BuiltBrokenModding/BuiltBrokenScripts/universal/scripts/both/git.gradle'
 apply from: 'https://raw.githubusercontent.com/BuiltBrokenModding/BuiltBrokenScripts/universal/scripts/both/jars.gradle'
