@@ -1,2 +1,0 @@
-apply from: 'https://raw.githubusercontent.com/LevysGamingWorld/CloudClientScripts/refs/heads/main/repos.gradle'
-apply from: 'https://raw.githubusercontent.com/BuiltBrokenModding/BuiltBrokenScripts/universal/scripts/both/dpesBoth.gradle'
