@@ -1,3 +1,3 @@
 //This is all the build scripts we use in the submodule
 apply from: 'https://raw.githubusercontent.com/LevysGamingWorld/CloudClientScripts/refs/heads/main/index-both.gradle'
-apply from: 'https://raw.githubusercontent.com/BuiltBrokenModding/BuiltBrokenScripts/universal/scripts/forge/newCurse.gradle'
+apply from: 'https://raw.githubusercontent.com/LevysGamingWorld/CloudClientScripts/refs/heads/main/newCurse.gradle'
