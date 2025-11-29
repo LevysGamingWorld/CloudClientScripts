@@ -1,10 +1,6 @@
 repositories {
     mavenCentral()
     jcenter()
-    /*maven {
-        name "dsiriusArt"
-        url "http://box1.dmodoomsirius.me:8081/artifactory/libs-release/"
-    }*/
     maven {
             name = "tterrag"
             url = "https://maven.tterrag.com/"
@@ -13,26 +9,14 @@ repositories {
         name "Mobius Repo"
         url "http://mobiusstrip.eu/maven"
     }
-    maven {
-        name 'CB Repo'
-        url "http://chickenbones.net/maven/"
-    }
     maven { 
         name 'OC Maven'
         url = "http://maven.cil.li/" 
     }
     maven {
-        name="bbm"
-        url="http://api.dmodoomsirius.me/"
-    }
-    maven {
         name "xcompwiz"
         url "http://maven.xcompwiz.com"
     }
-    /*maven {
-        name = "BluePower"
-        url = "http://maven.bluepowermod.com/"
-    }*/
     maven {
         name = "ic2, forestry"
         url = "http://maven.ic2.player.to/"
